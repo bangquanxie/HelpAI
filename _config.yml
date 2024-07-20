@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "HelpAI"
 title_separator          : "-"
 name                     : "Bangquan Xie"
-description              : &description "assistant professor and research fellow of advanced engineering college at Great Bay University, China（助理教授、研究员（正高））"
+description              : &description "Assistant Professor and Research Fellow（助理教授、研究员（正高））"
 url                      : https://bangquanxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bangquanxie/bangquanxie.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Bangquan Xie"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor and Research Fellow of advanced engineering college at Great Bay University, China（助理教授、研究员（正高））"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : bangquanxie@gbu.edu.cn" 
+  location         : "China"
+  employer         : "Advanced Engineering College at Great Bay University"
+  uri              : https://bangquanxie.github.io/HelpAI/ # URL
+  email            : "bangquanxie@gbu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
