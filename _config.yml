@@ -12,7 +12,7 @@ title                    : "HelpAI"
 title_separator          : "-"
 name                     : "Bangquan Xie"
 description              : &description "assistant professor and research fellow of advanced engineering college at Great Bay University, China（助理教授、研究员（正高））"
-url                      : https://bangquanxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "HelpAI" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
