@@ -16,4 +16,4 @@ I am recruiting the
 
 to join my research laboratory HelpAI Lab. 
 
-HelpAI Lab will customize a research guidance team, including off campus experts, for each student with a research topic. The off campus experts come from Apple, Google, Lucid Motors, BMW, CU-ICAR, ERAU, CMU, etc. Please email me with your CV and research plan for prospective collaborators. 
+HelpAI Lab will customize a research guidance team, including off campus experts, for each student with a research topic. The off campus experts come from Apple, Google, Lucid Motors, BMW, CU-ICAR, ERAU, CMU, etc. Please email me with your CV and research plan for prospective collaborators(bangquanxie@gbu.edu.cn). 
