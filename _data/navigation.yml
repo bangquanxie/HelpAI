@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Biography"
-    url: /biography/
+    url: Biography.md
     
   - title: "Latest News"
     url: /latest-news/
