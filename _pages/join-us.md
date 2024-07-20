@@ -8,7 +8,7 @@ author_profile: true
 
 I am recruiting the
 
--[Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint training supervisor is an European Academy of Sciences Fellow 欧洲科学院院士), 
+-[Ph.D.](https://www.gbu.edu.cn/detail/article/731) /Master (The joint training supervisor of Ph.D. is an European Academy of Sciences Fellow 欧洲科学院院士), 
 
 -[PostDoc](http://join.gbu.edu.cn/#/app/dwqdx/epxing_recruit/zpwz?pageId=7F6264E7CD444BE3B34823E31071EFDE&postListId=C806196294374AC58BF60FDC1BE4479F) (more than 50W/year, 与中科大联合培养博士后A、B岗), 
 
