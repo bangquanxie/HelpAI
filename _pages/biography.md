@@ -43,15 +43,6 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint tr
 - Bangquan Xie. "Maintenance Work Log of Vehicle Electronic Control System". 2016. (school-based teaching materials)
 - Bangquan Xie. "Road Transport Safety Technology". 2014. (school-based teaching materials)
 
-# Patents
-- Design of an Asymptotic Neural Network Architecture Search System for Agentless Search and Multi-task Transfer Learning (First Author, Applying)
-- Stereo fusion and Semi-Supervised Learning for Multi-sensor Single-stage 3D Target Detector (First author, Applying)
-- Multiple Transformers for Sensor Fusion on  2D/3D Object Detection (First author, Applying)
-
-# Awards & Recognitions
-- Selected for the 2019 Guangdong Province International Training Plan for Outstanding Young Scientific Research Talents in Higher Education Institutions.
-- Won the "Excellent Project Award" in the "2016 China "Internet + Transportation" Innovation and Entrepreneurship Competition.
-
 # Invited Talks
 - Environment Perception of Autonomous Driving Based on Deep Learning, Clemson University, SC, USA, December 2, 2019.
 - FocusTR: Focusing on Valuable Feature by Multiple Transformers for Fusing Feature Pyramid on Object Detection, Kyoto, Japan. October 13, 2022. (Virtual)
@@ -69,3 +60,9 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731) (The joint tr
   IEEE TRANSACTIONS ON IMAGE PROCESSING
 - 2021-Present
   IEEE International Conference on Robotics and Automation (ICRA)
+- 2021-Present
+  IEEE International Conference on Computer Vision(ICCV)
+- 2020-Present
+  European Conference on Computer Vision(ECCV)
+
+  
