@@ -269,7 +269,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _biography
+   # _biography
   - scope:
       path: ""
       type: biography
