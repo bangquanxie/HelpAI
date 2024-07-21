@@ -7,5 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![HelpAI---AI that provides help to humans!](AI.png)
+<font color=#FF0000 >HelpAI---AI that provides help to humans!</font>
+
+#![HelpAI---AI that provides help to humans!](AI.png)
 
