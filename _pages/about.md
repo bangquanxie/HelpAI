@@ -10,6 +10,6 @@ redirect_from:
 HelpAI---AI that provides help to humans!
 
 
- <img src="AI.png" width="1300" />
+
 
 
