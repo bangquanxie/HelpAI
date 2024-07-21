@@ -9,6 +9,3 @@ redirect_from:
 
 ![HelpAI---AI that provides help to humans!](AI.png)
 
-<div style="background-image: url('AI.png');" style="height: 500px;">
-  <!-- HelpAI---AI that provides help to humans!-->
-</div>
