@@ -37,6 +37,7 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731)/Master (The j
 
 **Co- Author Journals Articles**
 - Ling, Yancheng; Ma, Zhenliang ; Xie, Bangquan; Zhang, Qi; Weng, Xiaoxiong. “SA-BiGCN: Bi-Stream Graph ConvolutionNetworks With Spatial Attentions for the Eye Contact Detection in the Wild”. IEEE Intelligent Transportation Systems Transactions. 2023 （IF: 9.551, 中科院1区TOP刊）
+- Yancheng Ling; Zhenliang Ma; Qi Zhang; Bangquan Xie; Xiaoxiong Weng, "PedAST-GCN: Fast Pedestrian Crossing Intention Prediction Using Spatial–Temporal Attention Graph Convolution Networks", IEEE Transactions on Intelligent Transportation Systems, 2024（IF: 9.551, 中科院1区TOP刊）
 
 **Book**
 - Bangquan Xie, Qiwu Qin. "Testing and Maintenance of Vehicle Electronic Control Systems" .2016. ISBN 978-7-5160-1595-7
