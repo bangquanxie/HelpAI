@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-
+- 2024.8.9-10 [北京大学-大湾区大学（筹）联合开展博士研究生科研实践项目研讨会](https://mail.gbu.edu.cn/cgi-bin/readmail?sid=1j2Z7LbnbOdQ704o,2&mailid=ZL3605-o0hB7bciuDOD4kMlJokdWek&nocheckframe=true&t=attachments&select=1&wps=1)
 - 2024.7.15 欢迎本课题组的特任研究员李艳洲、博后卢泳康前来报到。
 - 2024.6.20 本课题组与哈工深联合培养的杨晨、孙宇已上交博士入学材料。
 - 2024.6.15 [湾湖学术活动周系列活动之先进工程科学论坛成功举办](https://mp.weixin.qq.com/s/t59j_eIw0ZWnj6Nk8paPTw)
