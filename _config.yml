@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "HelpAI"
 title_separator          : "-"
-name                     : "Bangquan Xie"
+name                     : "Bangquan Xie（谢帮权）"
 description              : &description "Assistant Professor and Research Fellow（助理教授、研究员（正高））"
 url                      : https://bangquanxie.github.io/HelpAI # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
