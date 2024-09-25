@@ -49,7 +49,7 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731)/Master (The j
 - FocusTR: Focusing on Valuable Feature by Multiple Transformers for Fusing Feature Pyramid on Object Detection, Kyoto, Japan. October 13, 2022. (Virtual)
 
 # Awards & Recognitions
-- Selected for the 2019 Guangdong Province International Training Plan for Outstanding Young Scientific Research Talents in Higher Education Institutions.
+- Selected for the Guangdong Province International Training Plan for Outstanding Young Scientific Research Talents in Higher Education Institutions.
 
 # Paper Review Services
 - 2018-Present
