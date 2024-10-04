@@ -18,7 +18,7 @@ I am recruiting [Ph.D.](https://www.gbu.edu.cn/detail/article/731)/Master (The j
 - University of Oklahoma, USA.
 - Carnegie Mellon University, USA.                                                                          
 
-**Research Intern**: The following companies have research and development center at Clemson University. The intern at BMW and Bosch is a part of the content of CU-ICAR "Deep Orange" project.	
+**Research Intern**: The following companies have research and development center at Clemson University. 
 - BMW Spartanburg factory, USA.                                                                               
 - Bosch Charleston factory, USA.                                                                                  
 - Microsoft Greenville factory, USA.        
