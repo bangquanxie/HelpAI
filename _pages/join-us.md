@@ -10,9 +10,9 @@ I am recruiting the
 
 -[Ph.D.](https://www.gbu.edu.cn/detail/article/731) /Master (The joint training supervisor of Ph.D. is an European Academy of Sciences Fellow 欧洲科学院院士), 
 
--PostDoc(more than 50W/year, 与[清华大学](https://www.gbu.edu.cn/detail/article/931) / [中科大](https://www.gbu.edu.cn/detail/article/768)联培博后A、B岗, 清华/中科大出站证书), 
+-PostDoc(more than 50W/year, 与[清华大学](https://www.gbu.edu.cn/detail/article/1026) / [中科大](https://www.gbu.edu.cn/detail/article/768)联培博后A、B岗, 清华/中科大出站证书), 
 
--[Assistant Researcher and Research Assistant](https://mp.weixin.qq.com/s/2k_y3IRTaR1ctjoBeMkWEQ) (PhD or excellent master candidates，特任研究员分A、B岗，研究助理可以远程), Visiting Scholar/Students（Providing accommodation，可以远程）, 
+-[Assistant Researcher and Research Assistant](https://www.gbu.edu.cn/detail/article/1027) (PhD or excellent master candidates，特任研究员分A、B岗，研究助理可以远程), Visiting Scholar/Students（Providing accommodation，可以远程）, 
 
 to join my research laboratory HelpAI Lab. 
 
