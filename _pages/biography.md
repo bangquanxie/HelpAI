@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I am currently an assistant professor, research fellow, and Ph.D. supervisor of advanced engineering college at Great Bay University, China（助理教授、研究员（正高）、博导）. My laboratory is called HelpAI Lab, focusing on the Embodied AI for Autonomous Driving and Robot. I was a joint training Ph.D. of South China University of Technology, China, and Clemson University, USA. And I was a Postdoctoral researcher of Embry-Riddle Aeronautical University, USA. 
+I am currently an assistant professor, research fellow, and Ph.D. supervisor of advanced engineering college at Great Bay University, China（助理教授、研究员（正高）、博导）. My laboratory is called HelpAI Lab, focusing on the Embodied AI for Autonomous Driving and Robot. I was a joint training Ph.D. of South China University of Technology, China, and Clemson University, USA. And I was a Postdoctoral researcher of Embry-Riddle Aeronautical University, USA.  I am IEEE Senior member, and the deputy director of Dongguan Key Laboratory of Intelligent Equipment and Smart Industry.
 
 My research interests include Autonomous Driving and Robot, Embodied AI, Machine Vision, Multi-modal Fusion & State Estimation, Attention Mechanism & Transformers, AutoML & NAS, Large Model Semi-Supervised Learning, Model Compression and Distillation.
 
